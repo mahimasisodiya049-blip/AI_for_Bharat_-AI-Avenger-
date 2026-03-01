@@ -1,0 +1,9 @@
+[
+  "tests/test_auth.py::TestAuthenticationEndpoints::test_login_invalid_credentials",
+  "tests/test_auth.py::TestAuthenticationEndpoints::test_login_success",
+  "tests/test_auth.py::TestAuthenticationEndpoints::test_protected_endpoint_with_valid_token",
+  "tests/test_auth.py::TestAuthenticationEndpoints::test_protected_endpoint_without_token",
+  "tests/test_auth.py::TestAuthenticationEndpoints::test_signup_duplicate_email",
+  "tests/test_auth.py::TestAuthenticationEndpoints::test_signup_invalid_email",
+  "tests/test_auth.py::TestAuthenticationEndpoints::test_signup_success"
+]
